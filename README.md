@@ -25,7 +25,7 @@ The site presents a clean layout ideal for showcasing a coffee business or cafe 
 
 ## 🌐 Connect With Me  
 📘 Facebook Page: [Facebook](https://www.facebook.com/share/14GeGbRMd77/)  
-🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohit-d)
+🔗 LinkedIn: [LinkedIn]([https://www.linkedin.com/in/mohit-d](https://www.linkedin.com/in/mohit-d-a83472367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 
 I regularly post screenshots and short reels of my projects on these platforms.  
