@@ -5,12 +5,8 @@ const Hero = () => {
     <div>
       
 <div
-  className="hero h-screen"
-  style={{
-    backgroundImage:
-     	"url('src/assets/hero.jpg')",
-  }}
->
+  className="hero h-screen bg-cover bg-center"
+  style={{ backgroundImage: "url('/hero.jpg')" }}>
   <div className="hero-overlay"></div>
   <div className="hero-content text-neutral-content justify-self-start mx-10">
     <div className="max-w-md">
