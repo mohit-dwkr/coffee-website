@@ -6,7 +6,7 @@ The site presents a clean layout ideal for showcasing a coffee business or cafe 
 ---
 
 ## 🚀 Live Demo  
-🔗 [Click here to open the live site](https://your-site-name.netlify.app)
+🔗 [Click here to open the live site](https://coffee-website-by-mohit.netlify.app/)
 
 ---
 
